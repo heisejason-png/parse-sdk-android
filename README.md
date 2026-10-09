@@ -165,5 +165,4 @@ As of April 5, 2017, Parse, LLC has transferred this code to the parse-community
 [guide]: http://docs.parseplatform.org/android/guide/
 [open-collective-link]: https://opencollective.com/parse-server
 [gradle-plugin]: https://developer.android.com/studio/releases/gradle-plugin
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
