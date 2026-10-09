@@ -166,3 +166,4 @@ As of April 5, 2017, Parse, LLC has transferred this code to the parse-community
 [open-collective-link]: https://opencollective.com/parse-server
 [gradle-plugin]: https://developer.android.com/studio/releases/gradle-plugin
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
